@@ -13,7 +13,7 @@ html {
 }
 
 body {
-    background: white;
+    background: #000;
     color: #fff;
     font-family: "Montserrat", sans-serif;
     overflow-x: hidden;
@@ -1143,73 +1143,4 @@ footer {
     }
 
     .process-line { transform: none; }
-}
-
-/* =========================================
-   ICON SIGN — FORCE FULL IMAGES ON MOBILE
-   ========================================= */
-
-@media screen and (max-width: 768px) {
-
-    /* HERO / ROTATING IMAGES */
-    .hero-right {
-        min-height: 0 !important;
-        height: auto !important;
-        aspect-ratio: 4 / 3;
-    }
-
-    .flip-container {
-        height: 100% !important;
-        min-height: 0 !important;
-    }
-
-    .flip-image {
-        inset: 0 !important;
-        overflow: hidden;
-    }
-
-    .flip-image img {
-        width: 100% !important;
-        height: 100% !important;
-        object-fit: contain !important;
-        object-position: center !important;
-    }
-
-    /* PROJECT CARDS */
-    .project-image {
-        height: auto !important;
-        aspect-ratio: 4 / 3;
-        overflow: hidden;
-    }
-
-    .project-image img {
-        display: block !important;
-        width: 100% !important;
-        height: 100% !important;
-        object-fit: contain !important;
-        object-position: center !important;
-        transform: none !important;
-    }
-
-    /* PROJECT POPUP */
-    .modal-image-container {
-        height: 60vh !important;
-        min-height: 0 !important;
-        overflow: hidden;
-    }
-
-    .modal-image-container img {
-        display: block !important;
-        width: 100% !important;
-        height: 100% !important;
-        object-fit: contain !important;
-        object-position: center !important;
-    }
-
-    /* FOUNDER PORTRAIT BACKGROUND */
-    .founder-background {
-        object-fit: contain !important;
-        object-position: center !important;
-        transform: none !important;
-    }
 }
