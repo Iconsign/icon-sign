@@ -152,7 +152,7 @@ slider.addEventListener(
 
 const projects = {
      project1: {
-        name: "VILLA one",
+        name: "Meriland",
         images: [
             "images/meriland flat/1.jpeg",
             "images/meriland flat/2.jpeg",
@@ -177,7 +177,7 @@ const projects = {
     },
 
     project2: {
-        name: "VILLA TWO",
+        name: "EL3asema",
         images: [
             "images/rafco flat العاصمه/1.png",
             "images/rafco flat العاصمه/2.png",
