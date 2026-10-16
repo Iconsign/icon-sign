@@ -161,7 +161,7 @@ const projects = {
             "images/meriland flat/5.jpeg",
             "images/meriland flat/6.jpeg",
             "images/meriland flat/7.jpeg",
-            "images/meriland flat/8.jpeg",
+            "images/meriland flat/8.jpg",
             "images/meriland flat/9.jpeg",
             "images/meriland flat/10.jpeg",
             "images/meriland flat/11.jpeg",
@@ -177,7 +177,7 @@ const projects = {
     },
 
     project2: {
-        name: "EL3asema",
+        name: "New Administrative Capital",
         images: [
             "images/rafco flat العاصمه/1.png",
             "images/rafco flat العاصمه/2.png",
@@ -190,7 +190,7 @@ const projects = {
         ]
     },
     project3: {
-        name: "VILLA THREE",
+        name: "Sodic Al sherouk",
         images: [
             "images/villa sodic alsherouk/1.jpg",
             "images/villa sodic alsherouk/2.jpg",
@@ -209,7 +209,7 @@ const projects = {
     },
 
     project4: {
-        name: "VILLA FOUR",
+        name: "Uptown",
         images: [
             "images/villa uptown/1.jpg",
             "images/villa uptown/2.jpg",
@@ -229,7 +229,7 @@ const projects = {
     },
 
     project5: {
-        name: "RESIDENCE FIVE",
+        name: "La vista",
         images: [
             "images/lavista villa/1.jpg",
             "images/lavista villa/2.jpg",
@@ -252,7 +252,7 @@ const projects = {
     },
 
     project6: {
-        name: "VILLA SIX",
+        name: "madinaty",
         images: [
             "images/madinaty flat B3/1.jpeg",
             "images/madinaty flat B3/2.png",
@@ -271,7 +271,7 @@ const projects = {
 
 
     project7: {
-        name: "VILLA SEVEN",
+        name: "Hyde park",
         images: [
             "images/twinvilla hydepark/1.jpg",
             "images/twinvilla hydepark/2.jpg",
@@ -304,12 +304,12 @@ const projects = {
     },
 
     project8: {
-        name: "VILLA EIGHT",
+        name: "Azad",
         images: [
             "images/azad flat/1.jpg",
             "images/azad flat/2.jpg",
             "images/azad flat/3.jpg",
-            "images/azad flat/4.jpg",
+            "images/azad flat/4.png",
             "images/azad flat/5.jpg",
             "images/azad flat/6.jpg",
             "images/azad flat/7.jpg",
@@ -329,7 +329,7 @@ const projects = {
     },
 
     project9: {
-        name: "VILLA NINE",
+        name: "Azad",
         images: [
             "images/duplex azad/1.png",
             "images/duplex azad/2.png",
@@ -348,7 +348,7 @@ const projects = {
     },
 
     project10: {
-        name: "VILLA TEN",
+        name: "Madinaty",
         images: [
             "images/madinaty g20/1.jpg",
             "images/madinaty g20/2.jpg",
@@ -365,7 +365,7 @@ const projects = {
     },
 
     project11: {
-        name: "VILLA ELEVEN",
+        name: "Madinaty",
         images: [
             "images/madinaty g21/1.jpg",
             "images/madinaty g21/2.jpg",
@@ -383,7 +383,7 @@ const projects = {
    
 
     project12: {
-        name: "VILLA TWELVE",
+        name: "Sodic East",
         images: [
             "images/sodic east duplex 238/1.jpg",
             "images/sodic east duplex 238/2.jpg",
@@ -399,7 +399,7 @@ const projects = {
     },
 
     project13: {
-        name: "VILLA THIRTEEN",
+        name: "October",
         images: [
             "images/villa alhadaba october/1.jpeg",
             "images/villa alhadaba october/2.jpeg",
@@ -434,7 +434,7 @@ const projects = {
     },
 
     project14: {
-        name: "VILLA FOURTEEN",
+        name: "La vista",
         images: [
             "images/villa lavista 160B/1.jpg",
             "images/villa lavista 160B/2.jpg",
@@ -453,7 +453,7 @@ const projects = {
     },
 
     project15: {
-        name: "VILLA FIFTEEN",
+        name: "october",
         images: [
             "images/villa october/1.jpeg",
             "images/villa october/2.jpeg",
@@ -477,7 +477,7 @@ const projects = {
     },
 
     project16: {
-        name: "VILLA SIXTEEN",
+        name: "South academy",
         images: [
             "images/villa south academy/1.jpeg",
             "images/villa south academy/2.jpeg",
@@ -500,7 +500,7 @@ const projects = {
         ]
     },
         project17: {
-        name: "VILLA SEVENTEEN",
+        name: "Sodic Zayed",
         images: [
             "images/villa sodic zayed/1.jpg",
             "images/villa sodic zayed/2.jpg",
